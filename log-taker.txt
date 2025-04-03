@@ -2723,3 +2723,15 @@
 4/2/2025 | 8:25:57 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:26:01 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:26:01 PM | ERROR | Failed to retrieve nonce for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/3/2025 | 1:52:24 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:52:24 AM | INFO | Start process for wallet 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/3/2025 | 1:52:25 AM | INFO | Trying To Login for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/3/2025 | 1:52:26 AM | INFO | Login successful... 
+4/3/2025 | 1:52:26 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:52:26 AM | INFO | User ID: 98876229 | Twitter: @zvnovia | Total Points: 1058680 
+4/3/2025 | 1:52:26 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:52:27 AM | INFO | Last mining time: 4/1/2025, 12:50:15 PM
+4/3/2025 | 1:52:27 AM | INFO | Trying to start Mining for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/3/2025 | 1:52:28 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:52:28 AM | INFO | Trying to activate mining on-chain for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/3/2025 | 1:52:34 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x49613bb6d5b0dc802286f4c80343d09853ebf6dc64aed56d99f723e939d9f8eb 
