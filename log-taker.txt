@@ -3583,3 +3583,12 @@
 4/17/2025 | 8:25:40 PM | INFO | Trying to activate mining on-chain for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
 4/17/2025 | 8:25:41 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:25:41 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:51:50 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:51:51 AM | INFO | Start process for wallet 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/18/2025 | 1:51:51 AM | INFO | Trying To Login for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/18/2025 | 1:51:52 AM | INFO | Login successful... 
+4/18/2025 | 1:51:52 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:51:52 AM | INFO | User ID: 98876229 | Twitter: @zvnovia | Total Points: 1394680 
+4/18/2025 | 1:51:52 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:51:53 AM | INFO | Last mining time: 4/17/2025, 12:49:15 PM
+4/18/2025 | 1:51:53 AM | WARN | Mining already started, next mining time is: 4/18/2025, 12:49:15 PM
