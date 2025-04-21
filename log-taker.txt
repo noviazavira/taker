@@ -3754,3 +3754,12 @@
 4/20/2025 | 8:24:16 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/20/2025 | 8:24:16 PM | INFO | Trying to activate mining on-chain for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
 4/20/2025 | 8:24:29 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x15c948c33f03eb5a9f5f8aae93f35cc04b0adad3e58300c01640f68ff5863f1b 
+4/21/2025 | 2:00:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/21/2025 | 2:00:20 AM | INFO | Start process for wallet 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/21/2025 | 2:00:20 AM | INFO | Trying To Login for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/21/2025 | 2:00:21 AM | INFO | Login successful... 
+4/21/2025 | 2:00:21 AM | INFO | Trying to check user info... 
+4/21/2025 | 2:00:22 AM | INFO | User ID: 98876229 | Twitter: @zvnovia | Total Points: 1466680 
+4/21/2025 | 2:00:22 AM | INFO | Trying to check user miner status... 
+4/21/2025 | 2:00:23 AM | INFO | Last mining time: 4/20/2025, 8:24:24 PM
+4/21/2025 | 2:00:23 AM | WARN | Mining already started, next mining time is: 4/21/2025, 8:24:24 PM
