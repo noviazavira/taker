@@ -4189,3 +4189,16 @@
 4/28/2025 | 12:58:32 PM | INFO | Trying to check user miner status... 
 4/28/2025 | 12:58:33 PM | INFO | Last mining time: 4/28/2025, 9:22:30 AM
 4/28/2025 | 12:58:33 PM | WARN | Mining already started, next mining time is: 4/29/2025, 9:22:30 AM
+4/28/2025 | 4:29:28 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/28/2025 | 4:29:28 PM | INFO | Start process for wallet 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/28/2025 | 4:29:29 PM | INFO | Trying To Login for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/28/2025 | 4:29:30 PM | INFO | Login successful... 
+4/28/2025 | 4:29:30 PM | INFO | Trying to check user info... 
+4/28/2025 | 4:29:31 PM | INFO | User ID: 98876229 | Twitter: @zvnovia | Total Points: 1634680 
+4/28/2025 | 4:29:31 PM | INFO | Trying to check user miner status... 
+4/28/2025 | 4:29:33 PM | INFO | Last mining time: 4/27/2025, 8:27:51 AM
+4/28/2025 | 4:29:33 PM | INFO | Trying to start Mining for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/28/2025 | 4:29:34 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/28/2025 | 4:29:34 PM | INFO | Trying to activate mining on-chain for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+4/28/2025 | 4:29:35 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000","reason":"must be more than 24 hours since the last activation.","transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb"},"invocation":null,"revert":{"signature":"Error(string)","name":"Error","args":["must be more than 24 hours since the last activation."]},"shortMessage":"execution reverted: \"must be more than 24 hours since the last activation.\"","info":{"error":{"code":-32603,"message":"VM Exception while processing transaction: revert must be more than 24 hours since the last activation.","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x4a","from":"0xf72d51d0e5956aae94c5fea6481d8e12c642a4fb","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+4/28/2025 | 4:29:35 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
