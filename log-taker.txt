@@ -5529,3 +5529,12 @@
 5/22/2025 | 2:00:48 AM | INFO | Trying to activate mining on-chain for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
 5/22/2025 | 2:00:49 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5f","from":"0xf72d51d0e5956aae94c5fea6481d8e12c642a4fb","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/22/2025 | 2:00:49 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 4:30:59 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 4:30:59 AM | INFO | Start process for wallet 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+5/22/2025 | 4:31:00 AM | INFO | Trying To Login for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+5/22/2025 | 4:31:01 AM | INFO | Login successful... 
+5/22/2025 | 4:31:01 AM | INFO | Trying to check user info... 
+5/22/2025 | 4:31:01 AM | INFO | User ID: 98876229 | Twitter: @zvnovia | Total Points: 2162680 
+5/22/2025 | 4:31:01 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 4:31:02 AM | INFO | Last mining time: 5/21/2025, 4:32:15 PM
+5/22/2025 | 4:31:02 AM | WARN | Mining already started, next mining time is: 5/22/2025, 4:32:15 PM
