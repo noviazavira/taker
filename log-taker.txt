@@ -6379,3 +6379,12 @@
 6/5/2025 | 8:22:51 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
 6/5/2025 | 8:22:51 PM | INFO | Trying to activate mining on-chain for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
 6/5/2025 | 8:23:00 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9ffdff3670524b4aa988c7e48547487e8acbfb21e75d10187261fe5fe9e6d017 
+6/6/2025 | 2:01:32 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/6/2025 | 2:01:32 AM | INFO | Start process for wallet 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+6/6/2025 | 2:01:32 AM | INFO | Trying To Login for wallet: 0xf72D51d0E5956aAE94c5feA6481D8E12C642A4fb 
+6/6/2025 | 2:01:33 AM | INFO | Login successful... 
+6/6/2025 | 2:01:33 AM | INFO | Trying to check user info... 
+6/6/2025 | 2:01:34 AM | INFO | User ID: 98876229 | Twitter: @zvnovia | Total Points: 2474680 
+6/6/2025 | 2:01:34 AM | INFO | Trying to check user miner status... 
+6/6/2025 | 2:01:35 AM | INFO | Last mining time: 6/5/2025, 8:22:57 PM
+6/6/2025 | 2:01:35 AM | WARN | Mining already started, next mining time is: 6/6/2025, 8:22:57 PM
